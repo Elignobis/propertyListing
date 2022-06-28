@@ -54,20 +54,14 @@ body {
     justify-content: center;
 }
 
-#landingID {
-    background-image: url('../images/small_house_with_key_home.jpg') no-repeat center center/cover;
-    background-attachment: fixed;
-}
-
 .home-image {
     height: 100%;
     width: 100%;
-    
+    background-image: url('../images/small_house_with_key_home.jpg');
     filter: brightness(40%);
     background-position: right 0px;
     background-size: cover;
     background-repeat: no-repeat;
-    
 }
 
 .home-page-custom {
